@@ -7,4 +7,6 @@ The file "cifar10.ipynb" executes the k-nearest neighbour classification algorit
 
 The confusion matrix and accuracy score is computed for both tasks.
 
+If you wish to implement for a different value of k, just change its value in the function call.
+
 The datasets are present in "mnist.pt" and "cifar10.pt".
